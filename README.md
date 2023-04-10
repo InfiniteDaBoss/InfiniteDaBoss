@@ -13,7 +13,7 @@ Making concepts
 
 etc
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Operating System i use" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Operating system i use" alt="Typing SVG" /></a>
 - Windows 10 (Before)
 - Windows 11 (After)
 - Other (Used by virtual machines)
