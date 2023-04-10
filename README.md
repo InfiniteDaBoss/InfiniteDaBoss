@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome" alt="Typing SVG" /></a>
-
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome" alt="Typing SVG" /></a>
 Well i think you typed my username because some users showed my username to you. You can follow me if you appreciate me work and stuff. Comment on any repo you want if you want some improvement from any of my repo.
 
 # Guide Tour
