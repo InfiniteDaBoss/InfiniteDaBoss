@@ -19,4 +19,4 @@ etc
 
 # Other
 
-Will be updated sooner or later or tomorrow, refresh to see new updates.
+Discord : `InfiniteDaBoss#9345`
