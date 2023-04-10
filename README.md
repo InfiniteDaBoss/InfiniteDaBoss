@@ -20,3 +20,6 @@ etc
 # Other
 
 Discord : `InfiniteDaBoss#9345`
+
+More will come here sooner or later or tomorrow 
+Refresh for any changes
