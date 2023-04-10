@@ -2,7 +2,7 @@
 
 Well i think you typed my username because some users showed my username to you. You can follow me if you appreciate me work and stuff. Comment on any repo you want if you want some improvement from any of my repo.
 
-# Guide Tour
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Guide+Tour)](https://git.io/typing-svg)
 If you want to see my repositories, click `repositories` tab
 There are lots of things here, but it's too long to show it here.
 
